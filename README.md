@@ -1,4 +1,7 @@
-## Hi there 👋
+### Halo Semuanya 👋
+Perkenalkan saya *Yoannes De Deo Haryo Wibisono* biasa dipanggil *Aryo*.\
+Saat ini saya menempuh pendidikan S1 *Informatika* di *Universitas Kristen Duta Wacana*.\
+Saya adalah lulusan *Bangkit Academy 2023 Batch 2* dibidang *Mobile Development*.
 
 <!--
 **Dedeo3/Dedeo3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="left">
+<a href="https://github.com/MekelWibi">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MekelWibi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MekelWibi&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
