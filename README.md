@@ -1,6 +1,6 @@
 ### Hello all 👋
-Let me introduce myself. My name is Yoannes De Deo Haryo Wibisono, and I am a recent graduate with a bachelor's degree in informatics. I am passionate about the development of Technology to give the world an advantage. With my ambition i beliaved to get my goals
-*.\*.
+Let me introduce myself. My name is Yoannes De Deo Haryo Wibisono, and I am a recent graduate with a bachelor's degree in informatics. I am passionate about the development of Technology to give the world an advantage. With my ambition, i believed to get my goals
+
 
 
 
